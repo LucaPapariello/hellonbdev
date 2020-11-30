@@ -1,4 +1,24 @@
-# nbdev template
+# Welcome to hello_nbdev
+> Cool tutorial about nbdev.
 
-Use this template to more easily create your nbdev project.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install your_project_name`
+
+## How to use
+
+Let's see this at work:
+
+```python
+say_hello('Sara')
+```
+
+
+
+
+    'Hello Sara!'
+
 
